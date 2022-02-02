@@ -1,0 +1,75 @@
+#accordionEx{
+    height: auto;
+    width: auto;
+    border: 0px solid #e8dada;
+    background-color: rgb(242 181 237);
+}
+
+
+
+#box{
+    background-color: #d5f8f1;;
+}
+.page-footer{
+    background-color: #abe8ea;;
+}
+
+.form{
+    background-color:  #d6ecee;
+} 
+.form-control{
+    background-color:#f0efdc;
+}
+#heads{
+    color: #fe6c6c;
+}
+#headss{
+    color: #fa0840;
+}
+.full{
+    width: auto;
+    margin: opx 0px 0px 0px;
+}
+.change{
+    color: #fefdff;
+}
+.low{
+    background-color: cadetblue;
+}
+.col {
+    border: 2px solid rgb(230, 218, 218);
+}
+#full{
+    color:#ff597f;
+}
+  .btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+ .fa {
+    color: #b64343;
+    padding: 1px 16px;
+} 
+.page-footer { 
+    background-color: #abe8ea;
+    padding: 0px 0px 0px 0px;
+} 
+#down{
+     background-color: #fe6c6c;
+}
+#facebook{
+    padding: 10px 10px;
+}
+.run{
+    padding: 33px 33px;
+}
+/* #change{
+    background-color: #fe6c6c;
+}
+.change{
+    background-color: #ff597f;
+} */
+
+
+
+
